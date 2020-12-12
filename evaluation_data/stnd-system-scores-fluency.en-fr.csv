@@ -1,0 +1,11 @@
+SYS,SCR,N
+FullTrain_LSTM_Baseline,"-0,114091175218275",403
+LessTrain_Transformer_SemSplit,"0,148502812660351",425
+LessTrain_Moses_Baseline,"-0,264613071602455",506
+LessTrain_LSTM_SemSplit,"-0,03224175048369",486
+LessTrain_Transformer_Baseline,"-0,134299851768006",430
+LessTrain_LSTM_Baseline,"0,027708935115032",423
+FullTrain_Transformer_SemSplit,"-0,095623256234332",352
+FullTrain_LSTM_SemSplit,"-0,229165788792029",468
+LessTrain_Moses_SemSplit,"-0,215980140335805",358
+FullTrain_Transformer_Baseline,"0,284144467016161",389
