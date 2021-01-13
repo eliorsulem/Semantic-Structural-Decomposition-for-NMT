@@ -1,0 +1,116 @@
+<root annotationID="0" passageID="newstest2014-fren-src.en-skipline_1202">
+  <attributes />
+  <extra format="text" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[13215492787441136081, 2886521954486527511, 15794550382381185553, 95, 382, 3, 7037928807040764755, 1, 16072095006890171862, 5582244037879929967, 1735328402741333448], [6783115644895076839, 1079668927252362454, 15794550382381185553, 95, 0, 2, 7037928807040764755, 4, 16072095006890171862, 3209455878668673793, 16378107861991608979], [4862024308998544481, 11233844080653092828, 13927759927860985106, 99, 0, 2, 7037928807040764755, 1, 16072095006890171862, 149303876845869574, 1588056499098558155], [2051220490409083500, 7039397736629347729, 1292078113972184607, 84, 0, 2, 7037928807040764755, 2, 18200729499220207786, 17427324969254097257, 2051220490409083500], [3222326356544807170, 16217034692072576639, 11233576250605462493, 95, 0, 2, 7037928807040764755, 1, 16072095006890171862, 18003918085672799305, 14358392012648877672], [1606144747998705650, 3964910719406958291, 1534113631682161808, 99, 0, 2, 8206900633647566924, 0, 16072095006890171862, 12290980237632234855, 7679303661980345986], [3791531372978436496, 3791531372978436496, 5595707737748328492, 93, 0, 2, 402, 1, 4370460163704169311, 15369245168918225700, 3791531372978436496], [14483864058589920370, 14070363061372230176, 14200088355797579614, 99, 0, 2, 446, -2, 16072095006890171862, 4690420944186131903, 10572380676402051993], [6694925759193565699, null, 13656873538139661788, 94, 0, 2, 413, -1, 18200729499220207786, 9350754067018752509, 6694925759193565699], [5640369432778651323, 5640369432778651323, 1292078113972184607, 84, 0, 2, 440, -2, 4370460163704169311, 1489474827855109852, 5640369432778651323], [15085802872750384791, 475376273668575235, 15794550382381185553, 95, 0, 2, 7037928807040764755, 1, 10887629174180191697, 3929483993944067416, 6469151226700973220], [6333778694687762110, 11686871898315818324, 15794550382381185553, 95, 0, 2, 436, -2, 16072095006890171862, 14862748245026736845, 11605145041906211243]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Toronto" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Mayor" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Chases" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Off" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Journalists" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="Seeking" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="to" />
+    </node>
+    <node ID="0.8" type="Word">
+      <attributes paragraph="1" paragraph_position="8" text="Interview" />
+    </node>
+    <node ID="0.9" type="Word">
+      <attributes paragraph="1" paragraph_position="9" text="Him" />
+    </node>
+    <node ID="0.10" type="Word">
+      <attributes paragraph="1" paragraph_position="10" text="on" />
+    </node>
+    <node ID="0.11" type="Word">
+      <attributes paragraph="1" paragraph_position="11" text="Drug" />
+    </node>
+    <node ID="0.12" type="Word">
+      <attributes paragraph="1" paragraph_position="12" text="Affair" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="A">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.8" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.9" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="1.5" type="R">
+        <attributes />
+      </edge>
+      <edge toID="1.6" type="C">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.10" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <edge toID="0.11" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.12" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+  </layer>
+</root>

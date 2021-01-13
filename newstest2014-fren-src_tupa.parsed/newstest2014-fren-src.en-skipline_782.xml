@@ -1,0 +1,68 @@
+<root annotationID="0" passageID="newstest2014-fren-src.en-skipline_782">
+  <attributes />
+  <extra format="text" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[9015547951174758558, 6932283536295705519, 15794550382381185553, 95, 381, 3, 7037928807040764755, 2, 16072095006890171862, 12290980237632234855, 14514536082146256733], [12667495615604954721, 15566893785393968193, 15794550382381185553, 95, 381, 1, 7037928807040764755, 1, 16072095006890171862, 14230521632333904559, 2646123857127441627], [2743510143003865078, 6752711370607845577, 15794550382381185553, 95, 381, 1, 426, 1, 16072095006890171862, 14862748245026736845, 6994356607058922890], [17359017512125595766, 4742694774208431406, 17109001835818727656, 99, 381, 1, 8206900633647566924, 0, 16072095006890171862, 16337536289976144572, 14814004474743358178]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Scott" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Brown" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Appeal" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Rejected" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="P">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="1.5" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.6" type="C">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+  </layer>
+</root>

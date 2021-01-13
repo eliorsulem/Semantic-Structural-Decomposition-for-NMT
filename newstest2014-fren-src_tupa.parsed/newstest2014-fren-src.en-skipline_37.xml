@@ -1,0 +1,80 @@
+<root annotationID="0" passageID="newstest2014-fren-src.en-skipline_37">
+  <attributes />
+  <extra format="text" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[13778091017196907338, 14439045154467212327, 15794550382381185553, 95, 381, 3, 7037928807040764755, 5, 10887629174180191697, 17714545831559622561, 4980175405888007940], [9153284864653046197, 9153284864653046197, 8214596291009089021, 96, 381, 1, 442, 4, 9153284864653046197, 9153284864653046197, 9153284864653046197], [11144093025662894627, 11144093025662894627, 15794550382381185553, 95, 381, 1, 7037928807040764755, 3, 4370460163704169311, 8148669997605808657, 11144093025662894627], [9153284864653046197, 9153284864653046197, 8214596291009089021, 96, 381, 1, 442, 2, 9153284864653046197, 9153284864653046197, 9153284864653046197], [10801254290123298416, 18287509989679820845, 15794550382381185553, 95, 381, 1, 7037928807040764755, 1, 10887629174180191697, 14230521632333904559, 14352285401091264922], [1495147925966805102, 16751083829325170008, 15794550382381185553, 95, 381, 1, 426, 1, 16072095006890171862, 17714545831559622561, 618373202557135677], [14024959738931619868, 17147419567587299339, 17109001835818727656, 99, 381, 1, 8206900633647566924, 0, 16072095006890171862, 3929483993944067416, 5121906190925376702]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Pont" />
+    </node>
+    <node ID="0.2" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="2" text="-" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="de" />
+    </node>
+    <node ID="0.4" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="4" text="-" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Buis" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="Portico" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="Dismantled" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="U">
+        <attributes />
+      </edge>
+      <edge toID="1.5" type="U">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.4" type="PNCT">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.5" type="PNCT">
+      <attributes />
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+  </layer>
+</root>

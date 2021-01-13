@@ -1,0 +1,80 @@
+<root annotationID="0" passageID="newstest2014-fren-src.en-skipline_2574">
+  <attributes />
+  <extra format="text" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[13226800834791099135, 16933990426988047072, 15794550382381185553, 95, 381, 3, 7037928807040764755, 1, 16072095006890171862, 8804677687338025421, 14814004474743358178], [3278625293875499398, 3554169177543738620, 15794550382381185553, 95, 381, 1, 426, 1, 16072095006890171862, 12290980237632234855, 9351806356543846235], [5080633436264110871, 12815368344456308931, 17109001835818727656, 99, 381, 1, 8206900633647566924, 0, 16072095006890171862, 3929483993944067416, 11208870015262361521], [16037325823156266367, 16037325823156266367, 1292078113972184607, 84, 381, 1, 440, -1, 4088098365541558500, 13110760720460257827, 16037325823156266367], [16087582740243647894, 5453907576404711541, 15794550382381185553, 95, 381, 1, 436, -1, 16072095006890171862, 9350754067018752509, 11571764995849485429]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="United" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="States" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Dressed" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="for" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Halloween" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="P">
+        <attributes />
+      </edge>
+      <edge toID="1.5" type="A">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="1.6" type="R">
+        <attributes />
+      </edge>
+      <edge toID="1.7" type="C">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.7" type="FN">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+  </layer>
+</root>

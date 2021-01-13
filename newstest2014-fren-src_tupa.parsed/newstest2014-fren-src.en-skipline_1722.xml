@@ -1,0 +1,86 @@
+<root annotationID="0" passageID="newstest2014-fren-src.en-skipline_1722">
+  <attributes />
+  <extra format="text" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[4808917457438387341, 5683431056069228857, 15794550382381185553, 95, 378, 3, 7037928807040764755, 1, 18200729499220207786, 10603054956214495369, 4808917457438387341], [4815023154314192865, 12851161987580706715, 15794550382381185553, 95, 378, 1, 7037928807040764755, 1, 10887629174180191697, 16337536289976144572, 16269389796083179738], [3014771988907761863, 3573116604670608395, 13927759927860985106, 99, 378, 1, 8206900633647566924, 0, 10887629174180191697, 3929483993944067416, 16799973512044659907], [16672740283687580497, 16172899360071598086, 1292078113972184607, 84, 0, 2, 440, -1, 16072095006890171862, 3929483993944067416, 7679303661980345986], [15841541241367257449, 18160593731223181045, 15794550382381185553, 95, 382, 3, 7037928807040764755, 2, 18200729499220207786, 5582244037879929967, 15841541241367257449], [2209473800042565654, 5271009958918016511, 15794550382381185553, 95, 382, 1, 7037928807040764755, 1, 18200729499220207786, 149303876845869574, 2209473800042565654], [6768023434966394520, 8072192413515875007, 15794550382381185553, 95, 382, 1, 436, -3, 16072095006890171862, 12290980237632234855, 10748144119362648261]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Lou" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Reed" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Dies" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="During" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Tai" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="Chi" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="Session" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="A">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="1.5" type="R">
+        <attributes />
+      </edge>
+      <edge toID="1.6" type="C">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+  </layer>
+</root>

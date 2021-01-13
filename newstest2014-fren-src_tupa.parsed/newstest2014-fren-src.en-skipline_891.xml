@@ -1,0 +1,86 @@
+<root annotationID="0" passageID="newstest2014-fren-src.en-skipline_891">
+  <attributes />
+  <extra format="text" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[null, null, 783433942507015291, 91, 0, 2, 8206900633647566924, 0, 16072095006890171862, 16829822105563051112, 15960622586596160197], [11532473245541075862, 11532473245541075862, 11532473245541075862, 96, 0, 2, 442, -1, 11532473245541075862, 11532473245541075862, 11532473245541075862], [10737187931864077642, 9330817010390793911, 15794550382381185553, 95, 386, 3, 7037928807040764755, 2, 16072095006890171862, 9148987913859918431, 5854663796211873579], [7944449749398104139, 7248544922998488549, 15794550382381185553, 95, 386, 1, 7037928807040764755, 1, 16072095006890171862, 14825646868312541310, 16111258787187009011], [2256157024891835746, 4414979865413207412, 15794550382381185553, 95, 386, 1, 426, 1, 16072095006890171862, 9350754067018752509, 16111258787187009011], [10199753519968426842, 9621670666534845071, 15794550382381185553, 95, 386, 1, 7037928807040764755, 1, 16072095006890171862, 149303876845869574, 1588056499098558155], [4396889584336059458, 1428355662598205655, 15794550382381185553, 95, 386, 1, 8206900633647566924, 0, 16072095006890171862, 9391737413944127320, 10748144119362648261], [886050111519832510, 886050111519832510, 1292078113972184607, 84, 0, 2, 440, -1, 4370460163704169311, 1489474827855109852, 886050111519832510], [14218824230535724009, 9471806766518506264, 15794550382381185553, 95, 0, 2, 436, -1, 16072095006890171862, 9350754067018752509, 6873750497785110593]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Gesves" />
+    </node>
+    <node ID="0.2" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="2" text=":" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Faulty" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Water" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Heater" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="Causes" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="Explosion" />
+    </node>
+    <node ID="0.8" type="Word">
+      <attributes paragraph="1" paragraph_position="8" text="of" />
+    </node>
+    <node ID="0.9" type="Word">
+      <attributes paragraph="1" paragraph_position="9" text="House" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="U">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.8" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.9" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.4" type="PNCT">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+  </layer>
+</root>

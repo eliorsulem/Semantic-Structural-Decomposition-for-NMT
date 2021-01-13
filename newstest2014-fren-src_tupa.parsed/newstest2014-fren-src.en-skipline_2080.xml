@@ -1,0 +1,56 @@
+<root annotationID="0" passageID="newstest2014-fren-src.en-skipline_2080">
+  <attributes />
+  <extra format="text" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[8912007670311091579, 3546477731327827945, 15794550382381185553, 95, 0, 2, 7037928807040764755, 1, 16072095006890171862, 3929483993944067416, 17454115351911680600], [3645538608286353302, 3883960749573218104, 13927759927860985106, 99, 0, 2, 7037928807040764755, 3, 16072095006890171862, 8656007278630577320, 9057081953957390075], [9988689500484792552, 14429195809366666767, 10554686591937588953, 83, 0, 2, 7037928807040764755, 2, 16072095006890171862, 17714545831559622561, 17500839416052576443], [2084610277745983941, 4059594418417281322, 15794550382381185553, 95, 381, 3, 7037928807040764755, 1, 16072095006890171862, 5582244037879929967, 13534407282666614941], [13053554208341782404, 12541414842550961509, 15794550382381185553, 95, 0, 2, 8206900633647566924, 0, 16072095006890171862, 10603054956214495369, 9250722957692387333]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Drone" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Kills" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Pakistani" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Taliban" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Leader" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+  </layer>
+</root>
